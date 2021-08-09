@@ -20,4 +20,4 @@ GitHub Repository: https://github.com/Johnsonha801/Password-Generator
 GitHub Published Site: https://johnsonha801.github.io/Password-Generator/
 
 #Screenshot of page:
-https://github.com/Johnsonha801/Password-Generator/blob/main/PasswordGen.PNG
+![](PasswordGen.PNG)
